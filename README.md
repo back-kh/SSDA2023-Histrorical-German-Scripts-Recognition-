@@ -13,9 +13,6 @@ Small Dataset Training: We provide methods and best practices for training with 
 Customizable Pipelines: Our code offers flexibility for adapting and fine-tuning models for various historical scripts and layouts.
 Community Contributions: We encourage community members to share their own datasets, models, or code improvements to help enhance the collective knowledge and resources available for historical document recognition.
 Getting Started
-Clone the Repository: Begin by cloning this repository to explore the code and datasets.
-Dataset Preparation: Follow our instructions for setting up and customizing your datasets for historical document recognition tasks.
-Model Training and Evaluation: Use our provided scripts to train, evaluate, and improve your recognition models with our SSDA methodology.
-Contributing
+
 We welcome contributions from researchers and developers interested in historical document analysis. If you have additional datasets, model improvements, or innovative techniques, please feel free to contribute or reach out to our team!
 
